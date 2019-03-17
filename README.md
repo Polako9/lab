@@ -10,3 +10,12 @@ sdkjfskdjfads
 ## Rozdział 1.1
 asdjshad
 asdjhgasj
+
+csharp
+int x = 1;
+int y = x+1;
+Console.WriteLine(x);
+
+A teraz [kliknij tutaj](http://e.wsei.edu.pl) aby zobaczyć wiecej.
+
+
