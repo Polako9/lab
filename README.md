@@ -1,5 +1,3 @@
-# lab
-game
 Autor: M. Polak
 Data: 2019-03-17
 ------------
